@@ -1,6 +1,6 @@
 
 # ARTS
-2019年订阅了极客时间**左耳听风**专栏，专栏作者陈皓（左耳朵耗子）是是一名骨灰级程序员，他的博客[coolshell](https://coolshell.cn/)。最近加入了他发起的ARTS打卡计划，每周自发完成一次ARTS。
+2019年订阅了极客时间**左耳听风**专栏，专栏作者陈皓（左耳朵耗子）是一名骨灰级程序员，他的博客[coolshell](https://coolshell.cn/)。最近加入了他发起的ARTS打卡计划，每周自发完成一次ARTS。
 
 ## 什么是ARTS？
 [ARTS打卡召集令](https://time.geekbang.org/column/article/85839)
