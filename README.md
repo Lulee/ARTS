@@ -8,7 +8,7 @@
 A: 
 
 > **Algorithm** <br> 
-每周至少做一个 leetcode 的算法题（先从Easy开始，然后再Medium，最后才Hard）。**主要是为了进行编程训练**，如果不训练看再多的算法书，依然不会做算法题，看完书后，需要的是训练。<br>
+每周至少做一个 [leetcode](https://leetcode.com/) 的算法题（先从Easy开始，然后再Medium，最后才Hard）。**主要是为了进行编程训练**，如果不训练看再多的算法书，依然不会做算法题，看完书后，需要的是训练。<br>
 关于做Leetcode的的优势，可以看一下陈皓在coolshell上的文章 [Leetcode 编程训练 - 酷 壳 - CoolShell](https://coolshell.cn/articles/12052.html "Leetcode编程训练")。
 
 
